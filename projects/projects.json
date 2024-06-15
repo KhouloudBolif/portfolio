@@ -32,7 +32,7 @@
   },
   {
     "name": "MLOps: malware detection",
-    "desc": " This project is to develop a system for detecting and predicting malware using machine learning techniques. The system analyzes images and signatures of files to identify potential threats, providing a robust solution for cybersecurity",
+    "desc": "System for detecting and predicting malware using machine learning. The system analyzes images and signatures of files to provide a robust solution for cybersecurity",
     "image": "MLOPS",
     "category": "basicweb",
     "links": {
@@ -51,7 +51,7 @@
     }
   }, {
     "name": "Kafka : churn prediction ",
-    "desc": "Goal of this project is to predict customer churn by processing subscription data using Apache Kafka for data streaming, Apache Spark for data processing and machine learning, and Flask for visualization",
+    "desc": "Predict customer churn by processing subscription data using Apache Kafka for data streaming, Apache Spark for data processing and machine learning",
     "image": "kafka",
     "category": "basicweb",
     "links": {
@@ -60,7 +60,7 @@
     }
   }, {
     "name": "Java JBDC :delivery management ",
-    "desc": "Goal of this project is to develop a delivery management application that streamlines and automates the process of managing deliveries. The application is built using Java for backend logic, JavaFX for the graphical user interface, JDBC for database connectivity, and MySQL for data storage",
+    "desc": "Develop a delivery management application that streamlines and automates the process of managing deliveries. The application is built using Java, JavaFX for user interface",
     "image": "jbdc",
     "category": "basicweb",
     "links": {
@@ -69,7 +69,7 @@
     }
   },{
     "name": "PHP : market shop ",
-    "desc": "Goal of this project is to develop an online market shop application that facilitates the buying and selling of home-related products. The application uses PHP for server-side development and MySQL for data storage.",
+    "desc": "Develop an online market shop application that facilitates the buying and selling of home-related products.",
     "image": "market",
     "category": "basicweb",
     "links": {
@@ -78,7 +78,7 @@
     }
   },{
     "name": "IOT : smart home monitoring ",
-    "desc": "Goal of this project is to develop a smart home surveillance system that monitors environmental conditions such as temperature, humidity, and light intensity. The system uses Wokwi for simulating the IoT devices, MQTT for message transmission, and Node-RED for visualization and control.",
+    "desc": "Develop a smart home surveillance system that monitors temperature, humidity, and light intensity.The system uses Wokwi, MQTT, and Node-RED.",
     "image": "iot",
     "category": "basicweb",
     "links": {

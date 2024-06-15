@@ -21,7 +21,7 @@ body{
 }
 
 *::selection{
-  background: #2b3dda;
+  background: #d64130;
   color: #fff;
 }
 html{
@@ -35,7 +35,7 @@ html::-webkit-scrollbar-track{
   background: rgb(235, 202, 245);
 }
 html::-webkit-scrollbar-thumb{
-  background: #420177;
+  background: #d64130;
 }
 /* navbar starts */
 header{
@@ -58,13 +58,13 @@ header .logo{
   font-size: 1.9rem;
   font-weight: 800;
   text-decoration: none;
-  color: #0E2431;
+  color: #fb9185b3;
 }
 header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #c0c0c0;
 }
 header .navbar ul{
   list-style: none;
@@ -84,8 +84,8 @@ header .navbar ul li a{
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover{
-  color: #011aff;
-  border-bottom: .2rem solid #011aff;
+  color: #d64130;
+  border-bottom: .2rem solid #d64130;
   padding: .5rem 0;
 }
 /* navbar ends */
@@ -94,7 +94,7 @@ header .navbar ul li a:hover{
 #menu{
   font-size: 3rem;
   cursor: pointer;
-  color: rgb(24, 2, 63);
+  color: #d64130;
   display: none;
 }
 @media(max-width:768px){
@@ -108,7 +108,7 @@ header .navbar ul li a:hover{
     height: 100%;
     text-align: left;
     align-items: flex-start;
-    background-color: #0e0f31;
+    background-color: #d64130;
   }
   header .navbar ul{
     flex-flow: column;
@@ -133,7 +133,7 @@ header .navbar ul li a:hover{
     padding: 1rem;
     color: #fff;
     border-radius: .5rem;
-    border-bottom: .5rem solid #011aff;
+    border-bottom: .5rem solid #c0c0c0;
   }
   .fa-times{
     transform: rotate(180deg);
@@ -189,8 +189,8 @@ header .navbar ul li a:hover{
   border-radius: .5em;
   transition: 0.5s;
   color: #fff;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, .6);
+  background: #ff8a7d;
+  box-shadow: 0px 5px 10px #d64130;
   text-align: center;
 }
 .backbtn .btn span {
@@ -204,7 +204,7 @@ header .navbar ul li a:hover{
   transition: 0.3s;
 }
 .backbtn .btn:hover{
-  background: #1a047e;
+  background: #d64130;
 }
 .backbtn .btn:hover i {
   transform: translateX(-8px);
@@ -215,7 +215,7 @@ header .navbar ul li a:hover{
 .footer{
   min-height: auto;
   padding-top: 0;
-  background: rgb(0, 1, 43);
+  background: #d85b4d;
 }
 .footer .box-container{
   display: flex;
@@ -240,7 +240,7 @@ header .navbar ul li a:hover{
 }
 .footer .box-container .box p i{
   padding-right: 1rem;
-  color: #ffae00;
+  color: #641c1c;
 }
 .footer .box-container .box a{
   font-size: 1.5rem;
@@ -249,7 +249,7 @@ header .navbar ul li a:hover{
   display: block;
 }
 .footer .box-container .box a:hover{
-  color: #ffae00;
+  color: #641c1c;
 }
 .footer .box-container .box .share{
   display: flex;
@@ -266,14 +266,14 @@ header .navbar ul li a:hover{
   margin-right: 1rem;
   transition: .2s;
   background: rgb(230, 230, 230);
-  color: #02094b;
+  color: #641c1c;
   border: none;
 }
 .footer .box-container .box .share a:hover{
   background: transparent;
   transform: scale(0.98);
   border: .1rem solid rgb(180, 178, 178);
-  color: #ffae00;
+  color: #641c1c;
 }
 .footer .credit{
   padding: 1rem 0 0 0;
@@ -285,7 +285,7 @@ header .navbar ul li a:hover{
   border-top: .1rem solid #fff3;
 }
 .footer .credit a{
-  color: #ffae00;
+  color: #641c1c;
 }
 .footer .fa{
     color: #E90606;
@@ -338,7 +338,7 @@ header .navbar ul li a:hover{
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
+  background: #ee2d18;
   color: rgb(13, 0, 44);
   border-radius: 5rem;
   transition: 1s linear;
