@@ -3,7 +3,7 @@
     "name": "DevOps : Medical consultation ",
     "desc": "Development of an Interactive Health platform: Towards a Connected Health . Using Flask and Spring boot on the backend side and Angular on the frontend side",
     "image": "medicalWEB",
-    "category": "mern",
+    "category": "dev",
     "links": {
       "view": "https://drive.google.com/file/d/19IK6kdZEiXs-Hr50qnHSwjeG-z7lipyW/view?usp=sharing",
       
@@ -13,8 +13,8 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "image": "portfolio",
+    "category": "dev",
     "links": {
       "view": "#",
       "code": "https://github.com/jigar-sable/Portfolio-Website"
@@ -24,7 +24,7 @@
     "name": "Power BI : Analysis of FSTT data",
     "desc": "Development of an Interactive Health platform: Towards a Connected Health . Using Flask and Spring boot on the backend side and Angular on the frontend side",
     "image": "powerBI",
-    "category": "basicweb",
+    "category": "data",
     "links": {
       "view": "https://drive.google.com/file/d/1sXlxOJat88IRiTbitd0RPipkhkR3b5MW/view?usp=sharing",
       "code": "https://drive.google.com/file/d/1qgqr3lyEjHpLDLbUTwkGpMR8jCzqpcxL/view?usp=sharing"
@@ -34,7 +34,7 @@
     "name": "MLOps: malware detection",
     "desc": "System for detecting and predicting malware using machine learning. The system analyzes images and signatures of files to provide a robust solution for cybersecurity",
     "image": "MLOPS",
-    "category": "basicweb",
+    "category": "ML",
     "links": {
       "view": "https://drive.google.com/file/d/1pmIb16c3AdPmrdjoWuxJ1G8pmhSPRm4a/view?usp=sharing",
       "code": "https://github.com/KhouloudBolif/MLOps"
@@ -44,7 +44,7 @@
     "name": "RNN : Sentiment analysis ",
     "desc": " Goal of this project is to develop a sentiment analysis system using Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM) units",
     "image": "LSTM",
-    "category": "basicweb",
+    "category": "ML",
     "links": {
       "view": "https://drive.google.com/file/d/1jswSu9k-_We6cpQneWTuNqdB1hZD8mWO/view?usp=sharing",
       "code": ""
@@ -53,7 +53,7 @@
     "name": "Kafka : churn prediction ",
     "desc": "Predict customer churn by processing subscription data using Apache Kafka for data streaming, Apache Spark for data processing and machine learning",
     "image": "kafka",
-    "category": "basicweb",
+    "category": "data",
     "links": {
       "view": "https://drive.google.com/file/d/1jswSu9k-_We6cpQneWTuNqdB1hZD8mWO/view?usp=sharing",
       "code": "https://github.com/linataataa/FlaskApp"
@@ -62,7 +62,7 @@
     "name": "Java JBDC :delivery management ",
     "desc": "Develop a delivery management application that streamlines and automates the process of managing deliveries. The application is built using Java, JavaFX for user interface",
     "image": "jbdc",
-    "category": "basicweb",
+    "category": "dev",
     "links": {
       "view": "https://drive.google.com/file/d/1drQCQSao0_JU5UoWe6rLwHKghQrLCWwV/view?usp=sharing",
       "code": "https://github.com/KhouloudBolif/GestionLivraison"
@@ -71,7 +71,7 @@
     "name": "PHP : market shop ",
     "desc": "Develop an online market shop application that facilitates the buying and selling of home-related products.",
     "image": "market",
-    "category": "basicweb",
+    "category": "dev",
     "links": {
       "view": "https://drive.google.com/file/d/1drQCQSao0_JU5UoWe6rLwHKghQrLCWwV/view?usp=sharing",
       "code": "https://github.com/KhouloudBolif/marketshop"
@@ -80,7 +80,7 @@
     "name": "IOT : smart home monitoring ",
     "desc": "Develop a smart home surveillance system that monitors temperature, humidity, and light intensity.The system uses Wokwi, MQTT, and Node-RED.",
     "image": "iot",
-    "category": "basicweb",
+    "category": "IOT",
     "links": {
       "view": "https://drive.google.com/file/d/1drQCQSao0_JU5UoWe6rLwHKghQrLCWwV/view?usp=sharing",
       "code": "https://github.com/KhouloudBolif/marketshop"
@@ -89,7 +89,7 @@
     "name": "PFE Project : WebSite SendaTrack",
     "desc": "Goal of this project is to develop a comprehensive vehicle management system for SendaTrack, incorporating real-time GPS tracking. The system aims to enhance fleet management, improve operational efficiency, and ensure the safety and security of vehicles",
     "image": "sendatrack",
-    "category": "basicweb",
+    "category": "dev",
     "links": {
       "view": "https://drive.google.com/file/d/1J4fm4aJ8QEZnNm6hjWpTPCQFnr12FlTS/view?usp=sharing",
       "code": "https://github.com/KhouloudBolif/SendaTrackWebsite"
