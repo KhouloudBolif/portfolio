@@ -39,12 +39,19 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+       // emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+        let params={
+            name: document.getElementById("name").value,
+            email :document.getElementById("email").value,
+            phone : document.getElementById("phone").value,
+            message: document.getElementById("message").value
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+        }
+
+        emailjs.send('service_hixs0ie', 'template_7vbzpij', params)
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
+                document.getElementById(parms).reset();
                 alert("Form Submitted Successfully");
             }, function (error) {
                 console.log('FAILED...', error);
